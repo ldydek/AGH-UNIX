@@ -26,7 +26,7 @@ pwd
 cat /usr/include/stdio.h
 
 # 4. Co znajduje się w pliku /etc/passwd bez wyświetlania go?
- file /etc/passwd
+file /etc/passwd
 
 # 5. Przeglądnij plik /etc/passwd.
 less /etc/passwd
