@@ -1,5 +1,5 @@
 # Komendy:
-# 
+
 # echo - wypisywanie znaków na standardowe wyjście
 # pwd - wypisywanie ścieżki bezwględnej do bieżącego katalogu (print working directory)
 # cat - wypisywanie pliku (od słowa concatenate)
